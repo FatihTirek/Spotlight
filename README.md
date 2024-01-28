@@ -8,4 +8,4 @@ The Windows Spotlight Image Extractor is a Python script designed to extract ima
 
 ## Note
 • Ensure that the script has appropriate permissions to access the Windows Spotlight assets directory and the destination directory for extracted images.  
-• Images are filtered based on their file size, with a default threshold of 400 KB. You can adjust this threshold as needed by modifying the `file_size` condition in the `main()` function.  
+• Images are filtered based on their file size, with a default threshold of 400 KB. You can adjust this threshold as needed by modifying the `MAX_FILE_SIZE_KB` constant.  
