@@ -1,5 +1,5 @@
 # Windows Spotlight Image Extractor
-The Windows Spotlight Image Extractor is a Python script designed to extract images from the Windows Spotlight assets directory and save them to a specified location. Additionally, it provides functionality to rename the extracted images in a sequential manner.
+The Windows Spotlight Image Extractor is a Python script designed to extract images from the Windows Spotlight assets directory and save them to the default Windows "Saved Pictures" directory. Additionally, it provides functionality to rename the extracted images in a sequential manner.
 
 ## Features
 • Image Extraction: Extracts images from the Windows Spotlight assets directory.  
